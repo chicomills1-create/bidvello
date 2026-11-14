@@ -1,0 +1,21 @@
+# BidVello
+
+Status: pre-launch preview. Subscriptions are not yet open; the public workspace shows fictional sample data.
+
+BidVello is a personalized government contract opportunity alert service for small businesses. It monitors public U.S. federal contract opportunities published on SAM.gov, matches them to a subscriber's profile (NAICS and PSC codes, set-asides, geography, keywords), and sends matched alerts with response deadlines, the reason each notice matched, and a link to the official posting.
+
+## Facts
+- Operator: Apex Grid Engineering PLLC (Queen Creek, Arizona). BidVello is an Apex Grid Engineering PLLC company.
+- Founder: Jeremy "Chico" Mills, Founder & CEO. Serial entrepreneur, USAF veteran.
+- Scope at launch: U.S. federal opportunities only. State and local opportunities are not included at launch.
+- Plans (monthly): Scout $49 (1 profile, up to 5 NAICS, 1 seat, daily digest); Firm $99 (3 profiles, 15 NAICS, 3 seats, prompt alerts for strong matches, set-aside filtering); Pro $199 (6 profiles, 50 NAICS, 5 seats, amendment alerts across all matched items, automated quarterly profile report). Saved-item change and cancellation alerts are included on every plan. No free tier.
+- Matches are labelled Strong search match / Possible search match / Excluded by stated preference, with the matching reason printed. BidVello does not publish numerical fit scores.
+- BidVello is an information service only. It does not write or submit bids, does not determine eligibility, and does not guarantee awards or outcomes.
+- BidVello is independent: it is not SAM.gov and is not affiliated with, sponsored by, or endorsed by the U.S. General Services Administration or any government agency.
+- BidVello is not a complete feed: opportunities subject to documented business conflicts are excluded, as disclosed in its terms.
+- Contact: info@bidvello.com
+
+## Pages
+- Home: https://bidvello.com/
+- Legal (terms, privacy, refunds): https://bidvello.com/legal.html
+- Sample workspace (fictional demo data): https://bidvello.com/workspace.html
