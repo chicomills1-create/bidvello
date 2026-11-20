@@ -1,0 +1,73 @@
+# BidVello — full text
+
+Status: pre-launch preview. Subscriptions are not yet open; the public workspace shows fictional sample data. The legal documents summarized below are drafts, published as "DRAFT — NOT YET EFFECTIVE CUSTOMER TERMS" on the legal page.
+
+## What BidVello is
+
+BidVello is a personalized government contract opportunity alert service for small businesses. It monitors public U.S. federal contract opportunities published on SAM.gov, matches them to a subscriber's profile (NAICS and PSC codes, set-asides, geography, keywords), and sends matched alerts with response deadlines, the reason each notice matched, and a link to the official posting.
+
+When available, the service is designed to work in three steps: (1) the subscriber builds a profile — NAICS and PSC codes, set-aside status, service geography, and include/exclude keywords; (2) BidVello checks the public federal postings on a recurring schedule and matches them against the profile with deterministic rules; (3) the subscriber receives alerts — a daily digest on every plan, prompt alerts for strong matches on Firm and Pro — each showing the notice type, the response deadline, and the printed reason the notice matched.
+
+BidVello is an information service only. It does not write or submit bids, does not determine eligibility, and does not guarantee awards or outcomes. BidVello is independent: it is not SAM.gov and is not affiliated with, sponsored by, or endorsed by the U.S. General Services Administration or any government agency. BidVello is not a complete feed: opportunities subject to documented business conflicts are excluded, as disclosed in its terms.
+
+## Facts
+
+- Operator: Apex Grid Engineering PLLC (Queen Creek, Arizona). BidVello is an Apex Grid Engineering PLLC company.
+- Founder: Jeremy "Chico" Mills, Founder & CEO. Serial entrepreneur, USAF veteran.
+- Scope at launch: U.S. federal opportunities only. State and local opportunities are not included at launch.
+- Contact: info@bidvello.com · 22475 E Quintero Rd, Queen Creek, AZ 85142.
+
+## Plans (monthly, USD)
+
+- Scout — $49/mo: 1 profile, up to 5 NAICS codes, 1 seat, daily digest of matched opportunities.
+- Firm — $99/mo: 3 profiles, up to 15 NAICS codes, 3 seats, daily digest plus prompt alerts for strong matches, set-aside filtering.
+- Pro — $199/mo: 6 profiles, up to 50 NAICS codes, 5 seats, amendment alerts across all matched items, automated quarterly profile report.
+
+Saved-item change and cancellation alerts are included on every plan. There is no free tier. Plans differ in workflow — profiles, seats, alert speed, and reporting — never in the accuracy of the underlying matching.
+
+## Matching and labels
+
+Matching is rules-based: NAICS and PSC codes, set-aside preferences, geography, and include/exclude keywords are compared against the subscriber's stated profile. Every alert shows the notice type and prints why it matched. Matches are labelled:
+
+- Strong search match — the notice satisfies the profile's stated search criteria.
+- Possible search match — the notice satisfies part of the criteria and is worth a look.
+- Excluded by stated preference — the notice was filtered out by the subscriber's own stated exclusions.
+
+BidVello does not publish numerical fit scores. A match label is never an eligibility determination: BidVello has not screened the subscriber's capability, capacity, bonding, or qualifications. Read the complete solicitation before bidding.
+
+## Questions and answers (as published on bidvello.com)
+
+Q: Is BidVello a government agency?
+A: No. It is an independent proposed software product and is not affiliated with, sponsored by or endorsed by any government agency.
+
+Q: Does it submit bids automatically?
+A: No. BidVello is intended to discover and organize opportunities. Your company remains responsible for eligibility, bid preparation and submission.
+
+Q: Are the opportunities in the demo real?
+A: No. All preview records are fictional examples. Live official-source data must be connected and verified before launch.
+
+Q: Does a match mean we qualify?
+A: No. A match label — Strong search match or Possible search match — means the notice satisfies your profile's stated search criteria: NAICS and PSC codes, set-aside, geography and keywords. BidVello has not screened your capability, capacity, bonding or qualifications, and a label is never an eligibility determination. Read the complete solicitation before bidding.
+
+Q: Is BidVello the complete SAM.gov feed?
+A: No. BidVello matches the public federal postings against your profile, and it is not a complete feed: opportunities subject to documented business conflicts are excluded, and BidVello says so here and in its terms rather than quietly. If completeness matters more than focus, SAM.gov's own saved searches are free.
+
+Q: What if a deadline BidVello sends is wrong?
+A: We investigate promptly, correct the record, and notify every subscriber who received the wrong information. If the error materially impaired the service and cannot reasonably be cured, affected subscribers receive a credit or refund for the affected period under the refund policy. An error the government source itself published is identified as a source correction.
+
+Q: Where do the opportunities come from?
+A: Public federal postings on SAM.gov, checked on a recurring schedule with the retrieval and verification times shown on each alert. BidVello is an independent service and is not affiliated with, sponsored by, or endorsed by SAM.gov, the U.S. General Services Administration, or any agency.
+
+## Legal documents (drafts — summaries only; the legal page governs)
+
+The legal page at https://bidvello.com/legal.html carries three draft documents, badged "DRAFT — NOT YET EFFECTIVE CUSTOMER TERMS":
+
+- Terms of Service (draft): BidVello is an information service; subscribers remain responsible for eligibility, bid preparation, and submission; profile fields describing a subscriber's business — SAM.gov registration status, UEI, certifications, bonding, and set-aside eligibility — are provided and attested by the subscriber, and BidVello does not verify them against any registry; BidVello is not a complete feed (documented-conflict exclusions are disclosed before payment); no compensation for lost contracts or profits.
+- Privacy Policy (draft): what the service collects (account and profile data needed to match and alert), how it is used, that subscriber data is not sold, and that profiles, saved items, and pursuit activity are not shared with other subscribers or third parties.
+- Refund Policy (draft): if a materially wrong deadline, status, or amendment materially impairs the service and cannot reasonably be cured, affected subscribers may receive an appropriate credit or refund for the affected subscription period or portion; errors the government source itself published are identified as source corrections.
+
+## Pages
+
+- Home: https://bidvello.com/
+- Legal (terms, privacy, refunds): https://bidvello.com/legal.html
+- Sample workspace (fictional demo data): https://bidvello.com/workspace.html
